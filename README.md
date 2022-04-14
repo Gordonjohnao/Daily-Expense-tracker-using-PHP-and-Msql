@@ -7,3 +7,5 @@ These Project have the following modules:<br>
 <p>Profile: In this section, user can update his/her profile.</p>
 <p>Change Password: In this section, user can change his/her passwords</p>
 <p>Logout: Through this button, user can log out.</p>
+You can manage your expenses this easy
+
